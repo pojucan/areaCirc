@@ -1,2 +1,2 @@
-# PyExercicios
-Repositório dedicado a exercícios em Python
+# AreaCirc
+Um programa para cálculo de área
