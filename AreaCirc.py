@@ -1,5 +1,4 @@
 #Programa 02 - AreaCirc
-#ID: PyExe-AreaCirc
 #Funcao: Calculando a area da circunferencia
 #Autor: Marcello Pojucan Magaldi Santos
 #Data: 29/07/2019
