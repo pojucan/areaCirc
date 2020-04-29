@@ -1,7 +1,7 @@
 # Programa: programa para cálculo de área de uma circunferencia
 # Nome: areaCirc.py
 # Autor: Pojucan, M.M.S.
-# Data: 29/07/2019
+# Data: 29/04/2019
 #
 import math                                               # módulo de cálculos
 print ('\nPrograma de cálculo da área da circunferência') # Apresentacao 
