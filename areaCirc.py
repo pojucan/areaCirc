@@ -1,3 +1,4 @@
+# coding:UTF-8
 # Programa: programa para cálculo de área de uma circunferencia
 # Nome: areaCirc.py
 # Autor: Pojucan, M.M.S.
